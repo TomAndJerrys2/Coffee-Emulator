@@ -1,4 +1,7 @@
 # CoffeeEmulator
+
+![coffee-emulator](https://github.com/user-attachments/assets/daa573d7-da29-4d81-ae54-1cdcba7c9bd7)
+
 The Free Coffee Emulator Capable of Emulating multiple consoles / devices!
 
 Built Primarily in C++, C and Some x86 Assembly - The main goal of this project
