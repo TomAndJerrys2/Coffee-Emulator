@@ -14,7 +14,7 @@ of every crack in the software from graphical display to memory management.
 - SNES Emulator - Build
 - N64 Emulator - Build
 
-And a Nain interface with features such as: 
+And a dynamic interface with features such as: 
 - User Sign up and User Login
 - Blog Posts and Comments
 - Updates Page
