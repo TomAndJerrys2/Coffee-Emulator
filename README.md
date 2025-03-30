@@ -21,6 +21,8 @@ And a dynamic interface with features such as:
 - Library (For Imported Roms)
 - Profile Customisation
 
+The Front-End is built as a Full-Stack Web application so it can be ran from the browser too. It primarily uses Springboot/AngularJS for back-end/front-end behaviour. The actual emulator's are built in C and C++ co Containers are used to run the game in a localized space. This is currently a demo for the main CoffeeOS Feature but it does include GraphQL Queries as well.
+
 You'll find each emulator in there respective sub-directory in this git repo.
 
 Hope you like it.
